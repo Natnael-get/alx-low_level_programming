@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _is lower - short description, single line
+ * _is lower -  returns 1 if c is lowercase
  * @c: contanins value to be compared
  * Return: Always 0.
  */
@@ -15,7 +15,7 @@ return (1);
 }
 else
 {
-return(0);
+return (0);
 }
 
 }
