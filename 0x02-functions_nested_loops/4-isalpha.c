@@ -3,10 +3,10 @@
 /**
  *-isalpha - return 1 if c is a letter. uppercase or lowercase
  *
- *@c: the int to print 
+ *@c: the int to print
  *Return: Always 0.
  */
-int -isalpha(int c)
+int _isalpha(int c)
 
 {
 
