@@ -5,7 +5,7 @@
  * @c: contanins value to be compared
  * Return: Always 0.
  */
-int -islower(int c)
+int _islower(int c)
 
 {
 
