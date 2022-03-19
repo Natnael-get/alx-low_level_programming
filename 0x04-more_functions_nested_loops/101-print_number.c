@@ -6,4 +6,7 @@
  */
 void print_number(int n)
 {
+
+int num;
+_putchar("%d", num);
 }
