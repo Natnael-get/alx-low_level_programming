@@ -2,7 +2,7 @@
 /**
  *main - entry point
  *
- *Return: Always 0.
+ *Return: void
  */
 
 int main(void)
@@ -32,7 +32,7 @@ printf("Buzz");
 
 else
 {
-printf("%i ",i);
+printf("%i ", i);
 }
 i++;
 
