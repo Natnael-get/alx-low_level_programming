@@ -21,7 +21,7 @@ else if (i % 3 == 0)
 {
 printf("Fizz ");
 }
-else if(i % 5 == 0)
+else if (i % 5 == 0)
 {
 if (i < p)
 printf("Buzz ");
