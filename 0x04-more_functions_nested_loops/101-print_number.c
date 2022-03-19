@@ -6,6 +6,4 @@
  */
 void print_number(int n)
 {
-int n;
-printf("%d\n", n);
 }
