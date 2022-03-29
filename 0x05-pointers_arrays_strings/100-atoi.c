@@ -28,7 +28,11 @@ break;
 }
 else if (s[i] == '-')
 {
+<<<<<<< HEAD
 sign *= -1;
+=======
+sign *= '-1';
+>>>>>>> d243136729fce7fdf0a58942b9c9d5164a05b808
 }
 }
 return (number *sign);
